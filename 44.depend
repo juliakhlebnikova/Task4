@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1591616671 source:c:\users\julia\desktop\Новая папка\44\44.cpp
+	"44.h"
+
+1591616411 c:\users\julia\desktop\Новая папка\44\44.h
+	<iostream>
+	<clocale>
+	<windows.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+
+1591616411 source:c:\users\julia\desktop\Новая папка\44\main.cpp
+	"44.h"
+
